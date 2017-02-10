@@ -1,8 +1,13 @@
+header{
+  background-image:   url(img/seattle.jpeg);
+  background-size: cover;
+  margin:10px;
+}
 body {
-  background-image: url(https://s-media-cache-ak0.pinimg.com/originals/19/c9/d7/19c9d7ebe62182001493d1e09df7295f.jpg);
+  background-image:   url(img/code.jpeg);
   background-attachment: fixed;
   background-position: center;
-
+  background-size:cover;
 }
 h1{
   color:blue;
@@ -16,7 +21,7 @@ h1{
 .nav{
   background-color:rgba(255,255,255,.8);
   border: 4px solid blue;
-  margin:10px;
+  margin:0px;
 }
 .active{
   display:inline;
@@ -34,7 +39,7 @@ h1{
   padding:50px;
   font-size: 5em;
   border: 4px solid blue;
-  margin:10px;
+  margin:0px;
   color:white;
   text-shadow: -3px -3px 0 black, 3px -3px 0 black, -3px 3px 0 black, 3px 3px 0 black;
 }
