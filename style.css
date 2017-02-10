@@ -4,6 +4,9 @@ body {
   background-position: center;
 
 }
+h1{
+  color:blue;
+}
 .me {
   border-radius: 250%;
   margin:0 40%;
@@ -49,6 +52,7 @@ body {
 }
 .subTitle{
   text-align: center;
+  color:blue;
 }
 #info1{
   width:45%;
@@ -154,4 +158,13 @@ body {
   height:370px;
   margin:10px 10px 10px 10px;
   padding:10px;
+}
+.ben{
+  color:white;
+  font-size: 1.5em;
+  margin:10px 10px 10px 10px;
+  padding:10px;
+}
+.under{
+  text-decoration: underline;
 }
