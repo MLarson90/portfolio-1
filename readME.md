@@ -1,9 +1,9 @@
-#_{Portfolio}_
-####_{Profoilio to highlight recent projects}_
-#### By _{Max Larson}_
-## _{Installation Requirements}_
-###_{This program will run in any standard browser}_
-## _{Written In}_
-### _{HTML,CSS,BOOTSTRAP}_
+#_Portfolio_
+####_**Profoilio to highlight recent projects**_
+#### By _Max Larson_
+## _Installation Requirements_
+###_This program will run in any standard browser_
+## _Written In_
+### _HTML,CSS,BOOTSTRAP_
 ### Licensed
-##_{Copyright 2017}_
+##_Copyright 2017_
