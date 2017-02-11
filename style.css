@@ -87,46 +87,9 @@ h1{
 .info2{
   list-style-type: none;
 }
-.proj #animal{
-  width:45%;
-  background:rgba(255,255,255,.8);
-  font-size: 1.5em;
-  border: 4px solid blue;
-  float:left;
-  height:370px;
-  margin:10px;
-  padding:10px;
-}
-.proj #band{
-  width:45%;
-  background:rgba(255,255,255,.8);
-  font-size: 1.5em;
-  border: 4px solid blue;
-  float:right;
-  height:370px;
-  margin:10px;
-  padding:10px;
-}
-.proj #blog{
-  width:45%;
-  background:rgba(255,255,255,.8);
-  font-size: 1.5em;
-  border: 4px solid blue;
-  float:left;
-  height:370px;
-  margin:10px 10px 10px 10px;
-  padding:10px;
-}
-.proj #cake{
-  width:45%;
-  background:rgba(255,255,255,.8);
-  font-size: 1.5em;
-  border: 4px solid blue;
-  float:right;
-  height:370px;
-  margin:10px 10px 10px 10px;
-  padding:10px;
-}
+
+
+
 .jonpic{
   width:25%;
   float:right;
@@ -165,11 +128,98 @@ h1{
   padding:10px;
 }
 .ben{
-  color:white;
+
   font-size: 1.5em;
   margin:10px 10px 10px 10px;
   padding:10px;
 }
 .under{
   text-decoration: underline;
+}
+.blog{
+  background:blue;
+}
+.jonny{
+  width:45%;
+  background:rgba(255,255,255,.8);
+  font-size: 1.5em;
+  border: 4px solid blue;
+  float:right;
+  height:370px;
+  margin:10px 10px 10px 10px;
+  padding:10px;
+}
+.jonny .panel-heading{
+  background:blue;
+  border:2px solid blue;
+  color:white;
+  margin:-10px;
+  padding:5px;
+  font-size:2em;
+}
+.animal1{
+  width:45%;
+  background:rgba(255,255,255,.8);
+  font-size: 1.5em;
+  border: 4px solid blue;
+  float:left;
+  height:370px;
+  margin:10px 10px 10px 10px;
+  padding:10px;
+}
+.animal1 .panel-heading{
+  background:blue;
+  border:2px solid blue;
+  color:white;
+  margin:-10px;
+  padding:5px;
+  font-size:2em;
+}
+.blog{
+  width:45%;
+  background:rgba(255,255,255,.8);
+  font-size: 1.5em;
+  border: 4px solid blue;
+  float:left;
+  height:370px;
+  margin:10px 10px 10px 10px;
+  padding:10px;
+}
+.blog .panel-heading{
+  background:blue;
+  border:2px solid blue;
+  color:white;
+  margin:-10px;
+  padding:5px;
+  font-size:2em;
+}
+  .cake{
+    width:45%;
+    background:rgba(255,255,255,.8);
+    font-size: 1.5em;
+    border: 4px solid blue;
+    float:right;
+    height:370px;
+    margin:10px 10px 10px 10px;
+    padding:10px;
+  }
+  .cake .panel-heading{
+    background:blue;
+    border:2px solid blue;
+    color:white;
+    margin:-10px;
+    padding:5px;
+    font-size:2em;
+}
+.botm{
+background:rgba(255,255,255,.8);
+margin:10px;
+}
+.botm .panel-heading{
+  background:blue;
+  border:2px solid blue;
+  color:white;
+  margin:0px;
+  padding:5px;
+  font-size:2em;
 }
